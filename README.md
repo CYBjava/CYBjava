@@ -2,5 +2,8 @@
 
 <h2>💻 Cybersecurity Projects:</h2>
 
-- <b>Home labs</b>
+<b>Ethical Hacking</b>
+- [Aldi report](https://github.com/CYBjava/Pentesting-report)
+
+
 
