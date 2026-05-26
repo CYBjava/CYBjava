@@ -10,3 +10,8 @@
 
 <b>Cybersecurity program development</b>
 - [Pixelforge Studios](https://github.com/CYBjava/Cybersecurity-program)
+
+<h2>🛠️ Technical troubleshooting:</h2>
+
+<b>computer troubleshooting</b>
+- [SSD failure](https://github.com/CYBjava/ssd-failure-troubleshooting)
