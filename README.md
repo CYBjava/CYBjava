@@ -7,6 +7,7 @@
 
 <b>Digital forensics</b>
 - [Employee policy violation](https://github.com/CYBjava/Forensic-report)
+- [Meridian Financial Services](https://github.com/CYBjava/Ransomware_Case_CTF)
 
 <b>Cybersecurity program development</b>
 - [Pixelforge Studios](https://github.com/CYBjava/Cybersecurity-program)
