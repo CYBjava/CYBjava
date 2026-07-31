@@ -12,6 +12,9 @@
 <b>Cybersecurity program development</b>
 - [Pixelforge Studios](https://github.com/CYBjava/Cybersecurity-program)
 
+<b>Incident Response</b>
+- [Stolen laptop incident](https://github.com/CYBjava/IncidentResponseScenario)
+
 <h2>🛠️ Technical troubleshooting:</h2>
 
 <b>computer troubleshooting</b>
